@@ -939,6 +939,13 @@
   ],
   "activities": [
     {
+      "id": "act-1779843010349-984",
+      "title": "Login Terdeteksi",
+      "desc": "Panitia Ustadz Ahmad Fauzi (Ketua Panitia) masuk ke sistem.",
+      "timestamp": "2026-05-27T00:50:10.349Z",
+      "type": "system"
+    },
+    {
       "id": "act-1779822849962-597",
       "title": "Mustahiq Baru Mendaftar",
       "desc": "Kupons KP-02 dialokasikan untuk Toro (Musafir).",
@@ -1279,13 +1286,6 @@
       "title": "Mudhohi Berhasil Dihapus",
       "desc": "Kontrak qurban jemaah yafiq dicabut / dihapus dari sistem.",
       "timestamp": "2026-05-26T18:17:44.355Z",
-      "type": "mudhohi"
-    },
-    {
-      "id": "act-1779819456711-144",
-      "title": "Mudhohi Berhasil Dihapus",
-      "desc": "Kontrak qurban jemaah ridho dicabut / dihapus dari sistem.",
-      "timestamp": "2026-05-26T18:17:36.711Z",
       "type": "mudhohi"
     }
   ]
